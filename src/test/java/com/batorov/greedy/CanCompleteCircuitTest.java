@@ -1,6 +1,6 @@
-package com.batorov;
+package com.batorov.greedy;
 
-import static com.batorov.CanCompleteCircuit.canCompleteCircuit;
+import static com.batorov.greedy.CanCompleteCircuit.canCompleteCircuit;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;

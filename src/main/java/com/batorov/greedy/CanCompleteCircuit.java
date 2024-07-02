@@ -1,4 +1,4 @@
-package com.batorov;
+package com.batorov.greedy;
 
 public class CanCompleteCircuit {
   private CanCompleteCircuit() {}
